@@ -4,6 +4,7 @@
 #include <sys/wait.h>
 
 int main()
+  
 {
   int n;
   printf("please enter the number n\n");
